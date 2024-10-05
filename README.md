@@ -6,16 +6,18 @@ Dieses Projekt bietet eine effiziente Lösung zur Erstellung von formatiertem Pa
 
 ## Funktionen
 
-- **Personalisierte Papiererstellung**: Geben Sie Ihre Stammdaten wie Name, Vorname und Matrikelnummer ein, um personalisiertes Papier für Ihre Klausuren zu generieren.
-- **Verschiedene Rechtsgebiete**: Unterstützt die Erstellung von Papier für verschiedene Rechtsgebiete wie BGB, HGB und mehr.
+- **Personalisierte Papiererstellung**: Stammdaten wie Name, Vorname und Matrikelnummer können eingegeben werden, um personalisiertes Papier für die Klausuren zu generieren.
+- **Verschiedene Rechtsgebiete**: Für jedes Rechtsmodul, das am ZAR geprüft wird, kann vorformatiertes Papier erstellt werden.
 - **Datenschutz**: Die eingegebenen Daten werden nur vorübergehend zur Erstellung des Dokuments verwendet und nicht gespeichert oder für andere Zwecke genutzt.
 
 ## Nutzung
 
-1. Besuchen Sie die Webseite.
-2. Geben Sie Ihre Stammdaten in die entsprechenden Felder ein.
-3. Wählen Sie das gewünschte Rechtsgebiet aus.
-4. Generieren Sie das personalisierte Papier und laden Sie es herunter.
+1. Die Website [klausurpapier.eu](https://www.klausurpapier.eu) aufrufen.
+2. Auf den Menüpunkt „Papier generieren“ klicken, um zur Eingabemaske zu gelangen.
+3. Die erforderlichen Felder in der Eingabemaske mit den persönlichen Informationen ausfüllen.
+4. Das gewünschte Rechtsgebiet sowie die Seitenzahl auswählen.
+5. Das Klausurpapier erstellen lassen und es herunterladen.
+"""
 
 ## Datenschutz
 
@@ -26,7 +28,3 @@ Die eingegebenen Informationen wie Name, Vorname und Matrikelnummer werden nur v
 Für weitere Fragen oder Anregungen steht jederzeit die Möglichkeit zur Verfügung, Kontakt aufzunehmen. Jede Rückmeldung ist willkommen.
 
 [info@klausurpapier.eu](mailto:info@klausurpapier.eu)
-
----
-
-**Hinweis**: Dieses Repository ist nicht öffentlich und wird nicht als Open Source zur Verfügung gestellt.
