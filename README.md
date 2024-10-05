@@ -19,11 +19,13 @@ Dieses Projekt bietet eine effiziente Lösung zur Erstellung von formatiertem Pa
 
 ## Datenschutz
 
-Die eingegebenen Informationen wie Name, Vorname und Matrikelnummer werden nur vorübergehend zur Erstellung des Dokuments benötigt. Diese Daten werden nicht gespeichert oder für andere Zwecke verwendet. Nach der Generierung des Papiers sind die Informationen nicht mehr zugänglich. Für detailliertere Informationen siehe die [Privacy Policy](#).
+Die eingegebenen Informationen wie Name, Vorname und Matrikelnummer werden nur vorübergehend zur Erstellung des Dokuments benötigt. Diese Daten werden nicht gespeichert oder für andere Zwecke verwendet. Nach der Generierung des Papiers sind die Informationen nicht mehr zugänglich.
 
 ## Kontakt
 
 Für weitere Fragen oder Anregungen steht jederzeit die Möglichkeit zur Verfügung, Kontakt aufzunehmen. Jede Rückmeldung ist willkommen.
+
+[info@klausurpapier.eu](mailto:info@klausurpapier.eu)
 
 ---
 
