@@ -18,6 +18,18 @@ Dieses Projekt bietet eine effiziente Lösung zur Erstellung von formatiertem Pa
 4. Das gewünschte Rechtsgebiet sowie die Seitenzahl auswählen.
 5. Das Klausurpapier erstellen lassen und es herunterladen.
 
+## Beispiele
+
+#### Eingabemaske leer
+![GenerateEmpty](images/generate_empty.png)
+
+#### Eingabemaske ausgefüllt
+![Generate](images/generate.png)
+
+#### Formatiertes Klausurpapier
+
+
+
 ## Datenschutz
 
 Die eingegebenen Informationen wie Name, Vorname und Matrikelnummer werden nur vorübergehend zur Erstellung des Dokuments benötigt. Diese Daten werden nicht gespeichert oder für andere Zwecke verwendet. Nach der Generierung des Papiers sind die Informationen nicht mehr zugänglich.
