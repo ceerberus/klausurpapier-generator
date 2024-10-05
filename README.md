@@ -17,7 +17,6 @@ Dieses Projekt bietet eine effiziente Lösung zur Erstellung von formatiertem Pa
 3. Die erforderlichen Felder in der Eingabemaske mit den persönlichen Informationen ausfüllen.
 4. Das gewünschte Rechtsgebiet sowie die Seitenzahl auswählen.
 5. Das Klausurpapier erstellen lassen und es herunterladen.
-"""
 
 ## Datenschutz
 
