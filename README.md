@@ -21,10 +21,10 @@ Dieses Projekt bietet eine effiziente Lösung zur Erstellung von formatiertem Pa
 ## Beispiele
 
 #### Eingabemaske leer
-<img src="images/generate_empty.png" alt="GenerateEmpty" width="200"/>
+<img src="images/generate_empty.png" alt="GenerateEmpty" width="700"/>
 
 #### Eingabemaske ausgefüllt
-<img src="images/generate.png" alt="Generate" width="200"/>
+<img src="images/generate.png" alt="Generate" width="700"/>
 
 #### Formatiertes Klausurpapier
 
